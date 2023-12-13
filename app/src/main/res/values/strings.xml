@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScoreKeeperAppAndroidKotlin</string>
+    <string name="team_1">Team 1</string>
+    <string name="zero">0</string>
+    <string name="add_one">+1</string>
+    <string name="add_two">+2</string>
+    <string name="add_three">+3</string>
+    <string name="plus">+</string>
+    <string name="fouls">Fouls</string>
+    <string name="reset">Reset</string>
+</resources>
